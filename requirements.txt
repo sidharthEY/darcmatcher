@@ -38,7 +38,6 @@ pylint==2.5.3
 python-dateutil==2.8.1
 python-dotenv==0.19.1
 pytz 
-pywin32==227
 PyYAML==5.4.1
 pyzmq==22.3.0
 rapidfuzz==1.6.2
